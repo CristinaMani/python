@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
-print "I love you"
+print "I hate you"
 
